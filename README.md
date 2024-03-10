@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 🛠️ 擅長工具
 ---
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="drawing" height="70" width="70"/>
-<img src="https://jgomezz.gallerycdn.vsassets.io/extensions/jgomezz/ndpinstallertask/1.0.14/1558448885859/Microsoft.VisualStudio.Services.Icons.Default" alt="drawing" height="70" width="70"/>
-<img src="https://audacia.co.uk/img/technologies/sql.svg" alt="drawing" height="70" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="drawing" height="50" width="50"/>
+<img src="https://jgomezz.gallerycdn.vsassets.io/extensions/jgomezz/ndpinstallertask/1.0.14/1558448885859/Microsoft.VisualStudio.Services.Icons.Default" alt="drawing" height="50" width="50"/>
+<img src="https://audacia.co.uk/img/technologies/sql.svg" alt="drawing" height="50" width="50"/>
 </div>
 
 📫 聯絡方式
