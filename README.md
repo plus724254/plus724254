@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://repository-images.githubusercontent.com/11489037/20ccee7a-6ca6-4a7b-99ea-b820b7d8be32" alt="drawing" height="70" width="150"/>  
 
-多虧了自2009年開始撰寫遊戲腳本的經驗，做出有趣的功能、在社群中與其他開發者的交流回饋，漸漸讓我對程式語言產生了興趣，2019年正式以軟體工程師的身分進入職場。  
+自2009年開始撰寫遊戲腳本，做出有趣的功能、在社群中與其他開發者的交流回饋，漸漸讓我對程式語言產生了興趣，2019年正式以軟體工程師的身分進入職場。  
 
 ---
 
